@@ -2,6 +2,18 @@
 
 > Um exercicio para a Buscape Company ;)
 
+## Features
+
+* [x] Layout responsivo
+* [x] Listar produtos
+* [x] Adicionar no carrinho
+* [x] Remover do carrinho
+* [x] Galeria de imagens
+* [x] Trocar imagens quebradas para imagens de erro default
+* [ ] Renderizar no server side
+* [ ] Persistir os dados
+* [ ] Teste do código
+
 ## Build Setup
 
 ``` bash

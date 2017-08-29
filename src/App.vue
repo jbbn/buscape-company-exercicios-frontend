@@ -54,9 +54,14 @@ body {
   font-size: 16px;
 }
 
+#app { padding-top: 90px }
+
 header {
-  position: relative;
-  background: #ffcd00
+  position: absolute;
+  top: 0;
+  width: 100%;
+  background: #ffcd00;
+  z-index: 100;
 }
 
 .logo { padding: 10px 0 5px 17px }
